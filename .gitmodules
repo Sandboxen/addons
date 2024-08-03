@@ -1,6 +1,3 @@
-[submodule "wire"]
-	path = wire
-	url = https://github.com/wiremod/wire
 [submodule "pac3"]
 	path = pac3
 	url = https://github.com/CapsAdmin/pac3
@@ -29,3 +26,12 @@
 [submodule "starfallex"]
 	path = starfallex
 	url = https://github.com/thegrb93/starfallex
+[submodule "easychat"]
+	path = easychat
+	url = https://github.com/earu/easychat
+[submodule "lua-code-editor"]
+	path = lua-code-editor
+	url = https://github.com/earu/lua-code-editor
+[submodule "wire"]
+	path = wire
+	url = https://github.com/wiremod/wire
