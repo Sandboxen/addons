@@ -35,3 +35,6 @@
 [submodule "wire"]
 	path = wire
 	url = https://github.com/wiremod/wire
+[submodule "scoreboard"]
+	path = scoreboard
+	url = https://github.com/Sandboxen/scoreboard
