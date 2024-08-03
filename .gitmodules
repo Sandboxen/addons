@@ -1,0 +1,9 @@
+[submodule "wire"]
+	path = wire
+	url = https://github.com/wiremod/wire
+[submodule "advdupe2"]
+	path = advdupe2
+	url = https://github.com/wiremod/advdupe2
+[submodule "pac3"]
+	path = pac3
+	url = https://github.com/CapsAdmin/pac3
