@@ -1,9 +1,31 @@
 [submodule "wire"]
 	path = wire
 	url = https://github.com/wiremod/wire
-[submodule "advdupe2"]
-	path = advdupe2
-	url = https://github.com/wiremod/advdupe2
 [submodule "pac3"]
 	path = pac3
 	url = https://github.com/CapsAdmin/pac3
+	branch = develop
+[submodule "acf-3"]
+	path = acf-3
+	url = https://github.com/ACF-Team/acf-3
+[submodule "acf-3-missiles"]
+	path = acf-3-missiles
+	url = https://github.com/ACF-Team/acf-3-missiles
+[submodule "ulx"]
+	path = ulx
+	url = https://github.com/TeamUlysses/ulx
+[submodule "ulib"]
+	path = ulib
+	url = https://github.com/TeamUlysses/ulib
+[submodule "utime"]
+	path = utime
+	url = https://github.com/TeamUlysses/utime
+[submodule "advdupe2"]
+	path = advdupe2
+	url = https://github.com/wiremod/advdupe2
+[submodule "wire-extras"]
+	path = wire-extras
+	url = https://github.com/wiremod/wire-extras
+[submodule "starfallex"]
+	path = starfallex
+	url = https://github.com/thegrb93/starfallex
