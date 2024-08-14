@@ -41,3 +41,6 @@
 [submodule "precision-alignment"]
 	path = precision-alignment
 	url = https://github.com/sandboxen/precision-alignment
+[submodule "falcos-prop-protection"]
+	path = falcos-prop-protection
+	url = https://github.com/Sandboxen/falcos-prop-protection
