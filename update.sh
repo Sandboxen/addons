@@ -1,1 +1,1 @@
-git submodule -q foreach git pull -q origin master
+git submodule -q foreach git pull
