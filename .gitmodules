@@ -44,3 +44,6 @@
 [submodule "falcos-prop-protection"]
 	path = falcos-prop-protection
 	url = https://github.com/Sandboxen/falcos-prop-protection
+[submodule "neo-chatsounds"]
+	path = neo-chatsounds
+	url = https://github.com/Earu/neo-chatsounds
