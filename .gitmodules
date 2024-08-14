@@ -38,3 +38,6 @@
 [submodule "scoreboard"]
 	path = scoreboard
 	url = https://github.com/Sandboxen/scoreboard
+[submodule "precision-alignment"]
+	path = precision-alignment
+	url = https://github.com/sandboxen/precision-alignment
