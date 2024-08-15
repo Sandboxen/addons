@@ -56,3 +56,6 @@
 [submodule "stcasinosuite"]
 	path = stcasinosuite
 	url = https://github.com/sandboxen/stcasinosuite
+[submodule "saitohud"]
+	path = saitohud
+	url = https://github.com/Sandboxen/saitohud
