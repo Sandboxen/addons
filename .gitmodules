@@ -50,3 +50,6 @@
 [submodule "cfw"]
 	path = cfw
 	url = https://github.com/ACF-Team/cfw
+[submodule "tcore"]
+	path = tcore
+	url = https://github.com/Sandboxen/tcore
