@@ -53,3 +53,6 @@
 [submodule "tcore"]
 	path = tcore
 	url = https://github.com/Sandboxen/tcore
+[submodule "stcasinosuite"]
+	path = stcasinosuite
+	url = https://github.com/sandboxen/stcasinosuite
