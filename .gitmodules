@@ -59,3 +59,9 @@
 [submodule "saitohud"]
 	path = saitohud
 	url = https://github.com/Sandboxen/saitohud
+[submodule "epoe"]
+	path = epoe
+	url = https://github.com/Metastruct/epoe
+[submodule "wuma"]
+	path = wuma
+	url = https://github.com/Weol/wuma
