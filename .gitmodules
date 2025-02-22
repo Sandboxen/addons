@@ -65,3 +65,6 @@
 [submodule "wuma"]
 	path = wuma
 	url = https://github.com/Sandboxen/wuma
+[submodule "fishingmod"]
+	path = fishingmod
+	url = https://github.com/Sandboxen/fishingmod
